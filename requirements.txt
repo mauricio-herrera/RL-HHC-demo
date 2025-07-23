@@ -1,0 +1,10 @@
+numpy
+pandas
+gymnasium
+matplotlib
+seaborn
+stable-baselines3
+torch
+openai
+scipy
+xlsxwriter  # Para exportar Excel desde pandas (opcional, pero recomendado)

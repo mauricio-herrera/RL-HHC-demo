@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.Renv/
+
+# PyCharm, VSCode, Spyder
+.idea/
+.vscode/
+.spyderproject
+.spyproject
+
+# MacOS/Windows/Linux hidden files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Logs and debug
+*.log
+*.out
+
+# Data science cache
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Data and results folders (adjust names if different)
+Data/
+results/
+outputs/
+tb_hhc_rl/
+*.csv~
+*.xlsx~
+*.bak
+*.tmp
+
+# Model weights/checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.tflite
+*.pb
+
+# TensorBoard and MLflow
+tb_hhc_rl/
+runs/
+mlruns/
+
+# System files
+*.swp
+*.swo
+
+# Excel temp
+~$*.xls*
